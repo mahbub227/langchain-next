@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`NEXT_PUBLIC_OPENAI_API_KEY`
+
+## Project Setup
+
+```sh
+npm install
+```
+
 ## Getting Started
 
 First, run the development server:
